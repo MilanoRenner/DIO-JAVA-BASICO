@@ -4,7 +4,7 @@ public class MinhaClasse {
     
     {
         
-        System.out.println("Hello, World!");
+        System.out.println("Ola turma!");
     
     }
 
